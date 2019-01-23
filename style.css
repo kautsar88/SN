@@ -1,0 +1,102 @@
+body
+{
+  background: #FF7F00;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  color:#000;
+  margin: 0;
+  padding: 0;
+}
+
+
+.header
+{
+  width: 400px;
+  margin: auto;
+  padding: 20px;
+
+}
+
+.produk li
+{
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+  overflow: hidden;
+  border: 3px solid #666;
+  float: left;
+
+}
+
+
+
+.clear {
+  clear: both;
+}
+
+
+
+.swiper-container
+{
+  width: 100%;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  box-shadow: 0 0 3px 3px rgba(0,0,0,.5);
+}
+.swiper-slide
+{
+  background-position: center;
+  background-size: cover;
+  width: 300px;
+  height: 300px;
+  background: #fff;
+   box-shadow: 0 0 3px 3px rgba(0,0,0,.5);
+}
+
+.gambar
+{
+  width: 300px;
+  height: 280px;
+
+}
+
+.isi
+{
+  width: 80%;
+  background-color: white;
+  margin: auto;
+  padding: 10px;
+  box-shadow: 0 0 3px 3px rgba(0,0,0,.5);
+  border-radius: 5px;
+  text-align: justify;
+  line-height: 1.5em;
+  
+}
+
+.isi h1
+{
+  text-align: center;
+  font-weight: bold;
+   
+}
+
+.isi .gbr
+{
+  max-width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.footer {
+  background-color: #333;
+  padding: 10px
+}
+
+.footer .copy {
+  color: #eaeaea;
+  text-align: center;
+  font-size: 12px;
+}
+
+
